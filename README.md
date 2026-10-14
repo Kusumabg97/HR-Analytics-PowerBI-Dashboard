@@ -151,27 +151,37 @@ Analyzes:
 
 ## 🔎 Key Insights
 
-### Workforce
+## 🔎 Key Business Insights
 
-- The dataset contains **2,500 employees**.
-- **1,899 employees are active**.
-- The overall attrition rate is approximately **24%**.
-- The workforce is distributed across seven departments and five locations.
+### Workforce Overview
 
-### Performance
+- The organization has **2,500 employees**, with **1,899 active employees**.
+- The overall **attrition rate is 24%**, indicating a significant level of employee turnover that should be monitored.
+- IT has the largest workforce among the seven departments, with **375 employees**, while HR has **337 employees**.
+- The workforce is distributed across five locations, with **Al Ain having the highest employee count (539)**.
 
-- Average employee performance score is **76.48**.
-- **732 employees** are classified as high performers.
-- **517 employees** are classified as low performers.
-- Customer Support has the highest average performance score among departments at approximately **77.85**.
+### Performance Analysis
 
-### Training
+- The overall average employee performance score is **76.48**.
+- **732 employees** are classified as high performers, while **517 employees** are classified as low performers.
+- **Customer Support** has the highest average performance score at approximately **77.85**.
+- Performance scores across departments are relatively close, ranging from approximately **76.01 to 77.85**.
 
-- Total training hours are approximately **49,830**.
-- Average training hours per employee are **19.93**.
-- Approximately **2,207 employees** are recorded as trained.
-- Training completion is approximately **88%**.
+### Training Analysis
 
+- Total recorded training hours are **49,830**, with an average of **19.93 training hours per employee**.
+- Approximately **2,207 employees (88.28%)** are recorded as trained.
+- **293 employees (11.72%)** are recorded as not trained.
+- Average training hours vary across departments, with Finance showing the highest average at approximately **20.6 hours**.
+
+### HR Management Perspective
+
+The dashboard highlights three areas that HR teams can monitor closely:
+
+1. **Employee attrition** – identify departments and workforce segments requiring retention strategies.
+2. **Performance development** – understand differences in performance across departments and locations.
+3. **Training participation** – identify employees who have not completed training and evaluate the relationship between training and performance.
+   
 ## 💡 Business Recommendations
 
 Based on the dashboard analysis:
