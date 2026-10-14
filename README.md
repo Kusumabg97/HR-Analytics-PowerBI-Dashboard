@@ -194,16 +194,16 @@ Based on the dashboard analysis:
 ## 📷 Dashboard Preview
 
 ### HR Dashboard Overview
-_Add screenshot here_
+![HR Dashboard Overview](Screenshots/01_HR_Dashboard_Overview.png)
 
 ### Workforce Overview
-_Add screenshot here_
+![Workforce Overview](Screenshots/02_Workforce_Overview.png)
 
 ### Performance Overview
-_Add screenshot here_
+![Performance Overview](Screenshots/03_Performance_Overview.png)
 
 ### Training Overview
-_Add screenshot here_
+![Training Overview](Screenshots/04_Training_Overview.png)
 
 ## 👩‍💻 Skills Demonstrated
 
